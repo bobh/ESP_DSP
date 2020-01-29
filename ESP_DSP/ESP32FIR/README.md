@@ -52,7 +52,7 @@ __________________________________________________________________
 <br/><br/>
 
 
-<img src="BLEScan.png"/>
+<img src="BLEscan.png"/>
 **BLE Scan**
 The filter is switched in/out programmatically over a
 Bluetooth Low Energy (BLE) wireless link. 
