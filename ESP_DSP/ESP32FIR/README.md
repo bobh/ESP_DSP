@@ -37,7 +37,6 @@ Time permitting, I will demonstrate more of the Espressif DSP Library functions 
 __________________________________________________________________
 
 ![Screenshot](ESP32_FIR.PNG)
-<img src="/images/ESP32_FIR.PNG"/>
 
 
 
