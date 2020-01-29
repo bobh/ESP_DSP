@@ -47,7 +47,7 @@ __________________________________________________________________
 
 
 
-![RealTimeAudioProcessor](/images/RealTimeAudioProcessor.PNG)
+![RealTimeAudioProcessor](/images/RealTimeAudioProcessor.png)
 # <H1 align="center"> DSP Done Dirt Cheap </H1> 
 __________________________________________________________________
 <br/><br/>
