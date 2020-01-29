@@ -37,7 +37,7 @@ Time permitting, I will demonstrate more of the Espressif DSP Library functions 
 __________________________________________________________________
 
 
-![ScreenShot](ESP32_FIR.PNG)
+![ScreenShot](/images/ESP32_FIR)
 
 
 
@@ -53,7 +53,7 @@ __________________________________________________________________
 <br/><br/>
 
 
-![BLE Scan](/BLEScan.PNG)
+![BLE Scan](/images/BLEScan)
 # BLE Scan
 The filter is switched in/out programmatically over a
 Bluetooth Low Energy (BLE) wireless link. 
