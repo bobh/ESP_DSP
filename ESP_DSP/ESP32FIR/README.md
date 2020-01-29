@@ -47,13 +47,13 @@ __________________________________________________________________
 
 
 
-![RealTimeAudioProcessor](RealTimeAudioProcessor.PNG)
+![RealTimeAudioProcessor](/RealTimeAudioProcessor.PNG)
 # <H1 align="center"> DSP Done Dirt Cheap </H1> 
 __________________________________________________________________
 <br/><br/>
 
 
-![BLE Scan](BLEScan.PNG)
+![BLE Scan](/BLEScan.PNG)
 # BLE Scan
 The filter is switched in/out programmatically over a
 Bluetooth Low Energy (BLE) wireless link. 
