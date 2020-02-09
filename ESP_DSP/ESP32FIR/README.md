@@ -71,7 +71,7 @@ From either app, connect to BLE peripheral advertising name "DSP_FILTER"
 In the /ESP32DACWaveforms/TwoCoreSineESP32 program enter a positive integer frequency between 300 and 2000 to switch sine wave frequency. 
 
 
-
+[700 Hz Bandpass Filter Demo] (https://www.youtube.com/watch?v=p_xYwLlHv3Y&feature=youtu.be)
 
 __________________________________________________________________
 <br/><br/>
